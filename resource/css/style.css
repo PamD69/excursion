@@ -1,9 +1,15 @@
-h1 {
+.header {
   color: blue;
   text-align: center;
 }
-.link{
-  color: aquamarine;
+h2 {
+  Color: blue;
   text-align: center;
 }
-.body {background-color: black;}
+.video {
+  text-align: center;
+  margin: 0;
+}
+.tent {
+  text-align: center;
+}
