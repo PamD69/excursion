@@ -1,10 +1,19 @@
+body {
+  background-color: black;
+}
+h1 {
+  font-size: 50px;
+}
 .header {
-  color: blue;
+  color: white;
   text-align: center;
+  font-family: "helveticus" sans-serif;
 }
 h2 {
-  Color: blue;
+  Color: white;
   text-align: center;
+  font-family: "helveticus" sans-serif;
+  font-size: 60px
 }
 .video {
   text-align: center;
@@ -12,4 +21,17 @@ h2 {
 }
 .tent {
   text-align: center;
+  color: gray;
+  font-family: "helveticus" sans-serif;
+  font-size: 25px
+}
+.phone {
+  text-align: center;
+}
+.link{
+  color: lightgreen;
+}
+.foot {
+  color: white;
+  text-align: right;
 }
