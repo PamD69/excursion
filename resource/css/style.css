@@ -1,9 +1,9 @@
 h1 {
-  color: white;
+  color: blue;
   text-align: center;
 }
 .link{
   color: aquamarine;
   text-align: center;
-
 }
+.body {background-color: black;}
